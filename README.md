@@ -1,3 +1,3 @@
-# 1241 - The Lying Monkey
+# The Lying Monkey
 
 Responsible Media
