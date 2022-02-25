@@ -1,5 +1,7 @@
 # The Lying Monkey
-This is branch contains the API for the project. The task of the API is to connect external sources to the ML. This connects the app to the ML model and also external sources. Hosted at http://lyingapi.yasharyan.xyz/ on AWS EC2 Instance. 
+This is branch contains the API for the project. The task of the API is to connect external sources to the ML. This connects the app to the ML model and also external sources.
+
+![Logo Designs](https://user-images.githubusercontent.com/27415791/155705955-cdca6fbf-f440-4b2a-9e3e-74311d5d3ec6.jpg)
 
 ## Technology Stack
 
